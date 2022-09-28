@@ -1,0 +1,5 @@
+OneWord
+OneWord
+OneWord
+NoSpaces
+JustLines

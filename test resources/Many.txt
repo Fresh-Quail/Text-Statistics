@@ -1,0 +1,1 @@
+ManyWords with no punctuation are correctly normalized     including     multiple spaces  between    words
